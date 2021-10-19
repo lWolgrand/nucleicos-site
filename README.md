@@ -1,7 +1,2 @@
-# Ola
-## Ola
-
-* 1
-* 2
-* 3
-
+# Este é um projeto de um website onde mostra uma equipe de e-sports.
+## O projeto foi construído em bootstrap. 
